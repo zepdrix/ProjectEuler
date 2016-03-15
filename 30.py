@@ -1,6 +1,7 @@
 from random import randint
 
 def find_number():
+	#uses randint to force an answer
 	list = []
 	x1 = randint(0,9)
 	x2 = randint(0,9)
