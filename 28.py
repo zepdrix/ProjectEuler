@@ -17,8 +17,6 @@ def find_spiral_sum(x):
 				return sum
 			counter += distance
 			sum += counter
-			print "counter:",counter
-			print "sum:", sum
 			i += 1
 	return sum
 	
