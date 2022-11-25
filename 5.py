@@ -45,7 +45,6 @@ def create_product(x):
 		
 print create_product(20)
 
-
 stop = timeit.default_timer()
 
 print stop - start
